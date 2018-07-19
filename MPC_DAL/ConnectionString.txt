@@ -1,0 +1,1 @@
+"server=localhost;user id=root;password=tungpk99;port=3306;database=MPC;SslMode=None";
